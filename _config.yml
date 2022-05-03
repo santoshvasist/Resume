@@ -1,22 +1,22 @@
 # Site
 repository: santoshvasist/Resume
-favicon: images/favicon.ico
+favicon: logo.ico
 
 version: 2
 
 # Personal info
 name: Santosh N Vasist
-title: Full Stack Web Developer
-email: james@jameswgrant.co.uk
+title: Scientist
+email: santoshvasist@gmail.com
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+#twitter_username: sproogen
+#github_username:  sproogen
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: dr.funtosh
+linkedin_username: Santosh Vasist
 # pinterest_username:
 # youtube_username:
 
@@ -24,7 +24,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/jg2.jpg
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
+  Hi, my name is Santosh Vasist, I'm a Research Scientist with over 5 years experience currently specialising in React development.
   I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
 
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
